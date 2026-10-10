@@ -1,16 +1,29 @@
-## Hi there 👋
+# <p align="center">🛸 AntiBitBat — C# Developer & OS Internals Researcher</p>
 
-<!--
-**AntiBitBat/AntiBitBat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://shields.io" alt="Language">
+  <img src="https://shields.io" alt="Focus">
+  <img src="https://shields.io" alt="Status">
+</p>
 
-Here are some ideas to get you started:
+> **`Syntax errors build character.`** — Разрабатываю на C# и исследую внутренние механизмы операционной системы Windows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📁 Текущие проекты / Active Projects
+
+* 🛠 **[Private Project] Windows Environment Control & Security PoC**  
+  *Исследовательский концепт блокировки графической среды Windows (User-Mode).*  
+  Проект находится в **приватном репозитории**. Демонстрация исходного кода, архитектурных решений (Win32 API Interop, фоновые Watchdog-потоки, SHA-256 KDF лицензирование) и логики работы в Safe Mode предоставляется потенциальным работодателям **строго по запросу** в индивидуальном порядке.
+
+---
+
+### 📊 Мой стек и статистика / GitHub Stats
+
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Связь / Contact
