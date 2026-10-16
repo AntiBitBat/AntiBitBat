@@ -114,12 +114,7 @@ Currently working on C# projects and security research. More details coming as p
 ---
 
 ## Contact
-
-<p align="center">
-  <a href="https://t.me/AntiBurzui" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2496ED?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://github.com/AntiBitBat" target="_blank">
+  <a href="https://github.com/junkexecode" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
@@ -127,7 +122,7 @@ Currently working on C# projects and security research. More details coming as p
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=junkexecode&color=58a6ff" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=AntiBitBat&color=58a6ff" alt="Profile views">
 </p>
 
 <p align="center">
