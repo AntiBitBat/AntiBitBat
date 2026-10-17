@@ -65,15 +65,15 @@ I'm working towards expanding my toolkit with Rust and C++ to tackle low-level s
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntiBitBat&show_icons=true&theme=github_dark&count_private=true&bg_color=1e1e1e&text_color=e0e0e0&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=junkexecode&show_icons=true&theme=github_dark&count_private=true&bg_color=1e1e1e&text_color=e0e0e0&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntiBitBat&layout=compact&theme=github_dark&bg_color=1e1e1e&text_color=e0e0e0&title_color=58a6ff&border_color=30363d" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkexecode&layout=compact&theme=github_dark&bg_color=1e1e1e&text_color=e0e0e0&title_color=58a6ff&border_color=30363d" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AntiBitBat&theme=github-dark-blue&background=1e1e1e&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=junkexecode&theme=github-dark-blue&background=1e1e1e&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff" alt="Streak Stats">
 </p>
 
 ---
